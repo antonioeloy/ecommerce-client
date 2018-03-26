@@ -1,0 +1,9 @@
+Microsoft.AspNetCore.WebUtilities
+Microsoft.Extensions.Primitives
+Microsoft.Net.Http.Headers
+Newtonsoft.Json
+Refit
+System.Buffers
+System.Runtime.CompilerServices.Unsafe
+System.Runtime
+System.Text.Encodings.Web
